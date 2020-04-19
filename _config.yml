@@ -4,6 +4,10 @@ description: ''
 baseurl: ''
 url: ''
 github_username: kungFuLambda
+<<<<<<< HEAD
 theme: minima
+=======
+theme: minimal
+>>>>>>> 1414b98458a3af34674e499040980ceb06bb430e
 plugins:
   - jekyll-feed

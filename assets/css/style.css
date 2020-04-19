@@ -1,4 +1,5 @@
 @import "";
+<<<<<<< HEAD
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
@@ -274,3 +275,8 @@ table td { border: 1px solid #e8e8e8; }
 .highlight .vi { color: #008080; }
 
 .highlight .il { color: #099; }
+=======
+body{
+    background-color: red;
+}
+>>>>>>> 1414b98458a3af34674e499040980ceb06bb430e
