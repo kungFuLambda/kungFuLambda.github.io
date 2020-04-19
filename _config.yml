@@ -4,6 +4,6 @@ description: ''
 baseurl: ''
 url: ''
 github_username: kungFuLambda
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
