@@ -1,0 +1,9 @@
+title: Kung Fu Lambda's io
+email: leon.tadina@gmail.com
+description: ''
+baseurl: ''
+url: ''
+github_username: kungFuLambda
+theme: minima
+plugins:
+  - jekyll-feed
